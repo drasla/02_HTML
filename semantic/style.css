@@ -48,12 +48,14 @@ aside {
 aside a {
     text-decoration: none;
     color: #3498db;
+
 }
 
 section {
     display: flex;
     flex-direction: column;
     gap: 20px;
+
 }
 
 .card {
